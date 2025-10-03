@@ -1,0 +1,27 @@
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Editor settings
+.vscode/
+.idea/
+*.swp
+
+# Logs and temp files
+*.log
+*.tmp
+
+# Python cache (if you add analysis scripts later)
+__pycache__/
+*.pyc
+
+# Node.js dependencies (if you add a small web demo later)
+node_modules/
+dist/
+
+# Build outputs (general)
+build/
+out/
+*.o
+*.exe
+*.class
