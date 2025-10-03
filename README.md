@@ -39,7 +39,7 @@ As **Project Manager and Software Engineer**, I was responsible for:
 ## 🛠️ Tools & Technologies Used  
 
 - **Hardware**: ESP32 microcontroller, MOX gas sensors, RTC, microSD module, OLED, and more
-- **Software**: C++ (Arduino/ESP32), JavaScript (web app), open source libraries ([SSD_13XX by sumotoy](https://github.com/sumotoy/SSD_13XX)), SolidWorks (mechanical design) 
+- **Software**: C++ (Arduino/ESP32), JavaScript (web app), open source component libraries ([SSD_13XX by sumotoy](https://github.com/sumotoy/SSD_13XX)), custom KiCad symbol libraries, SolidWorks (mechanical design) 
 - **Processes**: Sensor calibration, system integration, prototyping, verification testing  
 
 ---
