@@ -19,7 +19,7 @@ This project was developed in collaboration with **ARDIG Technologies, Inc.**, w
 
 As **Project Manager and Software Engineer**, I was responsible for:  
 - Leading a multidisciplinary team of four through the design, prototyping, and testing process.  
-- Developing and integrating the **embedded system (ESP32 microcontroller)** for sensor data acquisition and processing.  
+- Developing and integrating the **embedded system (ESP32 microcontroller)** for sensor data acquisition and processing, accumulating to over 1,000 lines of code in C++ and JavaScript.  
 - Designing the **web interface** for data visualization and device control.  
 - Coordinating **calibration protocols** and verification testing.  
 - Managing communication with the sponsor and ensuring deliverables met project milestones.  
