@@ -31,7 +31,8 @@ As **Project Manager and Software Engineer**, I was responsible for:
 - **Dual-sensor system**: Metal oxide sensors for acetone and ammonia detection.  
 - **Embedded system**: Microcontroller-based acquisition, processing, and storage.  
 - **Real-time analysis**: Binary output indicating presence/absence of hyperglycemia.  
-- **Custom enclosure**: SLA 3D-printed case designed for portability and usability.  
+- **Custom enclosure**: SLA 3D-printed case designed for portability and usability.
+- **Built for scalability**: Accessible across devices and designed to grow with users and features.
 
 ---
 
